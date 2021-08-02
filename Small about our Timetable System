@@ -1,0 +1,38 @@
+OCENG JOHN BOSCO 
+2018 - B071 - 10030
+UGANDA MARTYRS UNIVERSITY NKOZI
+
+
+
+Automated Timetable Generator 
+
+Most colleges have a number of different courses and each course has a number of subjects. 
+Now there are limited faculties, each faculty teaching more than one subjects. 
+So now the time table needed to schedule the faculty at provided time slots in such a way 
+that their timings do not overlap and the time table schedule makes best use of all faculty subject demands. 
+We use a customized algorithm for this purpose. In our Timetable Generation algorithm, we propose to utilize a timetable object. 
+This object comprises of Classroom objects and the timetable for every likewise a fitness score for the timetable. 
+Fitness score relates to the quantity of crashes the timetable has regarding alternate calendars for different classes. 
+Classroom object comprises of week objects. Week objects comprise of Days, Days comprises of Timeslots. 
+Timeslot has an address in which a subject, student gathering going to the address and educator showing the subject is related.
+Also further on discussing the imperatives, we have utilized composite configuration design, 
+which make it well extendable to include or uproot as numerous obligations. 
+In every obligation class the condition as determined in our inquiry is now checked between two timetable objects. 
+On the off chance that condition is fulfilled i.e. there is a crash is available then the score is augmented by one.
+
+Advantages
+
+•	Faculty did not need to worry for time clashes.
+•	Authority now does not need to perform permutation and combination.
+•	Authority can concentrate on other things rather than wasting their time on preparing Time-Table.
+•	Gives accurate information.
+•	Simplifies the manual work.
+•	It minimizes the documentation related work.
+•	Provides up to date information.
+•	Friendly Environment by providing warning messages.
+
+
+Disadvantages
+
+•	User has to format it a bit after it is prepared.
+•	System may provide incorrect results if data not entered correctly.
