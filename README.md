@@ -5,3 +5,5 @@ The project main objective was to develop a functional timetable that would help
 design its lecture timetable and display it to students and lecturers
 
 This Timetable System will also help the Administrator reduce their workload from time spent every semester drawing the timetable and it will also improve the efficiency and effectiveness of timetable and its reliability.  
+
+It will also manage time and lecture room collisions by allowing the administrator to assign room and time to available time and space only.
